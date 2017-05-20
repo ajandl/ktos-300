@@ -1,6 +1,6 @@
 # Basics of Linux and Docker for OpenStack (with Kolla)
 
-Deploying OpenStack has become significantly simpler in recent years with a shift to using Linux Containers (specifically as defined and deployed via the Docker suite of tools) and the OpenStack Kolla project for "contaienrizing" and providing an initial deployment and operations framework.
+Deploying OpenStack has become significantly simpler in recent years with a shift to using Linux Containers (specifically as defined and deployed via the Docker suite of tools) and the OpenStack Kolla project for "containerizing" and providing an initial deployment and operations framework.
 
 In this lab we'll look at some of the operational interactions needed to work with Docker and specifically with gaining access to the services and undersatnding the enviornment around the Dockerization of the OpenStack middleware service components.
 
